@@ -1,0 +1,4 @@
+rootProject.name = "JasonApp"
+include ':presentation'
+include ':domain'
+include ':data'

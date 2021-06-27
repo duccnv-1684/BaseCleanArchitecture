@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Jason App</string>
+    <string name="label_sku">SKU</string>
+    <string name="label_error_description">Error Description</string>
+    <string name="label_name">Name</string>
+    <string name="label_color">Color</string>
+    <string name="title_select_color">Pick a color</string>
+    <string name="label_submit">Submit</string>
+    <string name="error_name_required">Product\'s name is required</string>
+    <string name="error_name_limit">Max 50 character</string>
+    <string name="error_sku_required">Product\'s sku is required</string>
+    <string name="error_sku_limit">Max 20 character</string>
+    <string name="title_change_info">Change info of this product?</string>
+    <string name="error_unknow">Error!</string>
+    <string name="msg_update_success">Success!</string>
+    <string name="label_no_more_content">No more content</string>
+</resources>

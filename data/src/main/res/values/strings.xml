@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_api_error">Api Error</string>
+    <string name="msg_unknown_error">Something went wrong</string>
+    <string name="title_network_error">No Internet Connection</string>
+    <string name="msg_network_error">Your are offline please check your internet connection</string>
+</resources>
